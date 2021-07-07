@@ -1,0 +1,33 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 150%;
+}
+.hub-color-change{
+    color: orange
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width:85%;
+    padding-right: -5%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.bannar{
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+}
